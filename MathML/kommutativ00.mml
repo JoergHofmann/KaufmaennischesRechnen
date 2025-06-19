@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mtable>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mn>3</mn>
+       <mo stretchy="false">+</mo>
+       <mn>4</mn>
+       <mo stretchy="false">+</mo>
+       <mn>5</mn>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mrow/>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mn>4</mn>
+       <mo stretchy="false">+</mo>
+       <mn>3</mn>
+       <mo stretchy="false">+</mo>
+       <mn>5</mn>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mrow/>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mn>4</mn>
+       <mo stretchy="false">+</mo>
+       <mn>5</mn>
+       <mo stretchy="false">+</mo>
+       <mn>3</mn>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mn>12</mn>
+     </mrow>
+    </mtd>
+   </mtr>
+  </mtable>
+  <annotation encoding="StarMath 5.0">3+4+5={}newline 4+3+5={}newline 4+5+3=12</annotation>
+ </semantics>
+</math>

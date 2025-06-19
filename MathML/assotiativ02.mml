@@ -1,0 +1,71 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+  <mtable>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mo fence="true" form="prefix" stretchy="false">(</mo>
+       <mrow>
+        <mrow>
+         <mn>12</mn>
+         <mi mathvariant="normal">:</mi>
+         <mn>2</mn>
+        </mrow>
+       </mrow>
+       <mo fence="true" form="postfix" stretchy="false">)</mo>
+      </mrow>
+      <mi mathvariant="normal">:</mi>
+      <mrow>
+       <mn>2</mn>
+       <mo stretchy="false">=</mo>
+       <mn>6</mn>
+      </mrow>
+      <mi mathvariant="normal">:</mi>
+      <mrow>
+       <mn>2</mn>
+       <mo stretchy="false">=</mo>
+       <mn>3</mn>
+      </mrow>
+      <mrow/>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mtext>aber</mtext>
+      <mrow/>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mn>12</mn>
+      <mi mathvariant="normal">:</mi>
+      <mrow>
+       <mrow>
+        <mo fence="true" form="prefix" stretchy="false">(</mo>
+        <mrow>
+         <mrow>
+          <mn>2</mn>
+          <mi mathvariant="normal">:</mi>
+          <mn>2</mn>
+         </mrow>
+        </mrow>
+        <mo fence="true" form="postfix" stretchy="false">)</mo>
+       </mrow>
+       <mo stretchy="false">=</mo>
+       <mn>12</mn>
+      </mrow>
+      <mi mathvariant="normal">:</mi>
+      <mrow>
+       <mn>1</mn>
+       <mo stretchy="false">=</mo>
+       <mn>12</mn>
+      </mrow>
+     </mrow>
+    </mtd>
+   </mtr>
+  </mtable>
+</math>

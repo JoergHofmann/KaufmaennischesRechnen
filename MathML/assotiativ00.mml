@@ -1,0 +1,131 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+  <mtable>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mn>2</mn>
+       <mo stretchy="false">+</mo>
+       <mn>3</mn>
+       <mo stretchy="false">+</mo>
+       <mn>4</mn>
+       <mo stretchy="false">+</mo>
+       <mn>5</mn>
+       <mo stretchy="false">+</mo>
+       <mn>6</mn>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mrow/>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mrow>
+        <mo fence="true" form="prefix" stretchy="false">(</mo>
+        <mrow>
+         <mrow>
+          <mn>2</mn>
+          <mo stretchy="false">+</mo>
+          <mn>3</mn>
+         </mrow>
+        </mrow>
+        <mo fence="true" form="postfix" stretchy="false">)</mo>
+       </mrow>
+       <mo stretchy="false">+</mo>
+       <mn>4</mn>
+       <mo stretchy="false">+</mo>
+       <mn>5</mn>
+       <mo stretchy="false">+</mo>
+       <mn>6</mn>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mrow/>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mn>2</mn>
+       <mo stretchy="false">+</mo>
+       <mrow>
+        <mo fence="true" form="prefix" stretchy="false">(</mo>
+        <mrow>
+         <mrow>
+          <mn>3</mn>
+          <mo stretchy="false">+</mo>
+          <mn>4</mn>
+         </mrow>
+        </mrow>
+        <mo fence="true" form="postfix" stretchy="false">)</mo>
+       </mrow>
+       <mo stretchy="false">+</mo>
+       <mn>5</mn>
+       <mo stretchy="false">+</mo>
+       <mn>6</mn>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mrow/>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mn>2</mn>
+       <mo stretchy="false">+</mo>
+       <mn>3</mn>
+       <mo stretchy="false">+</mo>
+       <mrow>
+        <mo fence="true" form="prefix" stretchy="false">(</mo>
+        <mrow>
+         <mrow>
+          <mn>4</mn>
+          <mo stretchy="false">+</mo>
+          <mn>5</mn>
+         </mrow>
+        </mrow>
+        <mo fence="true" form="postfix" stretchy="false">)</mo>
+       </mrow>
+       <mo stretchy="false">+</mo>
+       <mn>6</mn>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mrow/>
+     </mrow>
+    </mtd>
+   </mtr>
+   <mtr>
+    <mtd>
+     <mrow>
+      <mrow>
+       <mn>2</mn>
+       <mo stretchy="false">+</mo>
+       <mn>3</mn>
+       <mo stretchy="false">+</mo>
+       <mn>4</mn>
+       <mo stretchy="false">+</mo>
+       <mrow>
+        <mo fence="true" form="prefix" stretchy="false">(</mo>
+        <mrow>
+         <mrow>
+          <mn>5</mn>
+          <mo stretchy="false">+</mo>
+          <mn>6</mn>
+         </mrow>
+        </mrow>
+        <mo fence="true" form="postfix" stretchy="false">)</mo>
+       </mrow>
+      </mrow>
+      <mo stretchy="false">=</mo>
+      <mn>20</mn>
+     </mrow>
+    </mtd>
+   </mtr>
+  </mtable>
+</math>
